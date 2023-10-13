@@ -6,5 +6,7 @@ public class HelloWorld {
 		System.out.println("This is a demo project to check gitbash and github");
 		System.out.println("Hello World");
 		System.out.println("final commit");
+		
+		System.out.println("new feature");
 	}
 }
